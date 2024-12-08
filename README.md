@@ -19,8 +19,8 @@ pip3 install -r requirements.txt
 
 You must have text documents with the.txt extension in your project directory in order to run this code. The script will automatically load all documents with that extension when you execute it, and it will then calculate how similar they are, as you can see below;
 
-cd Plagiarism-checker-Python
-python app.py
+$->cd Plagiarism-checker-Python
+$python app.py
 ('requirements.txt', 'trinadh.txt', np.float64(0.0))
 ('saith.txt', 'trinadh.txt', np.float64(0.09428205706431231))
 ('ramu.txt', 'trinadh.txt', np.float64(0.059249637743117624))
